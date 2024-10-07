@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# by rick g.
+.idea/
+.vscode/
+*.db
+*.db-shm
+*.db-wal
+*.env
+wwwroot/build/*
+.DS_Store
+appsettings.Development.json
